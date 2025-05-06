@@ -2,5 +2,5 @@
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-cookiefirst-consent-state-variable
 versions:
-  - sha: XXX
+  - sha: 6640fe4b15c0585842845ad6616c56b8ca44800f
     changeNotes: Initial release.

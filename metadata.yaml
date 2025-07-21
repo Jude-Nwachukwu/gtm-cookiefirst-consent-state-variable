@@ -3,9 +3,11 @@ homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-cookiefirst-consent-state-variable
 versions:
 # LATEST VERSION
+  - sha: 079075dad37138c59458b286d456cb65b2e5d61f
+    changeNotes: Included mandatory template category.
+
+#OLDER VERSION
   - sha: d4733bc24656289d4c357d02c900fce6303f3eb5
     changeNotes: Updated the variable custom template name.
-
-#INITIAL VERSION
   - sha: 6640fe4b15c0585842845ad6616c56b8ca44800f
     changeNotes: Initial release.
